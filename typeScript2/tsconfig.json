@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "watch": true,
+        "removeComments": false,
+        "outDir":"js",
+        "preserveConstEnums": true
+    },
+    "files": [
+        "person.ts",
+        "student.ts",
+        "test.ts",
+        "teacher.ts"
+    ]
+}
